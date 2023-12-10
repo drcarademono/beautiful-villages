@@ -1,0 +1,34 @@
+{
+    "FldHeader": {
+        "NumBlockDataRecords": 0,
+        "NumMisc3dObjectRecords": 0,
+        "NumMiscFlatObjectRecords": 0,
+        "BlockPositions": null,
+        "BuildingDataList": [],
+        "BlockDataSizes": null,
+        "GroundData": {
+
+        },
+        "AutoMapData": null,
+        "Name": null,
+        "OtherNames": null
+    },
+    "SubRecords": [],
+    "Misc3dObjectRecords": [
+        {
+            "ModelId": "52012",
+            "ModelIdNum": 52012,
+            "ObjectType": 0,
+            "XPos": 3810,
+            "YPos": 1,
+            "ZPos": -3741,
+            "XScale": 1.0,
+            "YScale": 1.0,
+            "ZScale": 1.0,
+            "XRotation": 0,
+            "YRotation": -79,
+            "ZRotation": 0
+        }
+    ],
+    "MiscFlatObjectRecords": []
+}
