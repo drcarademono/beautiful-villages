@@ -1,7 +1,7 @@
 {
     "Position": 14754708,
     "Index": 553,
-    "Name": "TEMPASF0.RMB",
+    "Name": "TEMPAAF0.RMB",
     "Type": "Rmb",
     "RmbBlock": {
         "FldHeader": {
@@ -387,328 +387,76 @@
                 ],
                 "GroundTiles": [
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 130,
-                        "TextureRecord": 2,
+                        "TileBitfield": 12,
+                        "TextureRecord": 12,
                         "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 203,
+                        "TextureRecord": 11,
+                        "IsRotated": true,
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 203,
+                        "TextureRecord": 11,
                         "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 130,
-                        "TextureRecord": 2,
-                        "IsRotated": false,
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 203,
+                        "TextureRecord": 11,
+                        "IsRotated": true,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 203,
+                        "TextureRecord": 11,
+                        "IsRotated": true,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 203,
+                        "TextureRecord": 11,
+                        "IsRotated": true,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 10,
+                        "TextureRecord": 10,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 238,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 202,
+                        "TextureRecord": 10,
                         "IsRotated": true,
-                        "IsFlipped": false
+                        "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 203,
+                        "TextureRecord": 11,
                         "IsRotated": true,
-                        "IsFlipped": false
+                        "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 203,
+                        "TextureRecord": 11,
                         "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
+                        "IsFlipped": true
                     },
                     {
                         "TileBitfield": 204,
@@ -717,10 +465,190 @@
                         "IsFlipped": true
                     },
                     {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
                         "TileBitfield": 66,
                         "TextureRecord": 2,
                         "IsRotated": true,
                         "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 11,
+                        "TextureRecord": 11,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 175,
+                        "TextureRecord": 47,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 1,
+                        "TextureRecord": 1,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 138,
+                        "TextureRecord": 10,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 75,
+                        "TextureRecord": 11,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 140,
+                        "TextureRecord": 12,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 11,
+                        "TextureRecord": 11,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 75,
+                        "TextureRecord": 11,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 75,
+                        "TextureRecord": 11,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 140,
+                        "TextureRecord": 12,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
                     },
                     {
                         "TileBitfield": 66,
@@ -747,10 +675,52 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 11,
+                        "TextureRecord": 11,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
                         "IsRotated": true,
                         "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 47,
+                        "TextureRecord": 47,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 183,
+                        "TextureRecord": 55,
+                        "IsRotated": false,
+                        "IsFlipped": true
                     },
                     {
                         "TileBitfield": 66,
@@ -807,10 +777,40 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 202,
-                        "TextureRecord": 10,
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
                         "IsRotated": true,
-                        "IsFlipped": true
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 65,
+                        "TextureRecord": 1,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 47,
+                        "TextureRecord": 47,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
                     },
                     {
                         "TileBitfield": 66,
@@ -867,36 +867,6 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
                         "TileBitfield": 11,
                         "TextureRecord": 11,
                         "IsRotated": false,
@@ -909,10 +879,40 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 202,
-                        "TextureRecord": 10,
+                        "TileBitfield": 47,
+                        "TextureRecord": 47,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 183,
+                        "TextureRecord": 55,
+                        "IsRotated": false,
                         "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
                     },
                     {
                         "TileBitfield": 66,
@@ -963,58 +963,58 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 12,
-                        "TextureRecord": 12,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 203,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": true
-                    },
-                    {
                         "TileBitfield": 10,
                         "TextureRecord": 10,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 65,
-                        "TextureRecord": 1,
+                        "TileBitfield": 47,
+                        "TextureRecord": 47,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 65,
-                        "TextureRecord": 1,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 139,
-                        "TextureRecord": 11,
+                        "TileBitfield": 175,
+                        "TextureRecord": 47,
                         "IsRotated": false,
                         "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 138,
+                        "TextureRecord": 10,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 140,
+                        "TextureRecord": 12,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
                     },
                     {
                         "TileBitfield": 22,
@@ -1053,64 +1053,64 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 194,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 203,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 203,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 203,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 10,
-                        "TextureRecord": 10,
+                        "TileBitfield": 12,
+                        "TextureRecord": 12,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 65,
-                        "TextureRecord": 1,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
                         "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 175,
+                        "TextureRecord": 47,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 137,
+                        "TextureRecord": 9,
+                        "IsRotated": false,
+                        "IsFlipped": true
                     },
                     {
                         "TileBitfield": 139,
                         "TextureRecord": 11,
                         "IsRotated": false,
                         "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
                     },
                     {
                         "TileBitfield": 21,
@@ -1149,9 +1149,21 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 203,
-                        "TextureRecord": 11,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 138,
+                        "TextureRecord": 10,
+                        "IsRotated": false,
                         "IsFlipped": true
                     },
                     {
@@ -1167,44 +1179,32 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 75,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 75,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 193,
-                        "TextureRecord": 1,
-                        "IsRotated": true,
+                        "TileBitfield": 140,
+                        "TextureRecord": 12,
+                        "IsRotated": false,
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 37,
-                        "TextureRecord": 37,
+                        "TileBitfield": 22,
+                        "TextureRecord": 22,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
@@ -1233,24 +1233,6 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 12,
-                        "TextureRecord": 12,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 10,
-                        "TextureRecord": 10,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 138,
-                        "TextureRecord": 10,
-                        "IsRotated": false,
-                        "IsFlipped": true
-                    },
-                    {
                         "TileBitfield": 66,
                         "TextureRecord": 2,
                         "IsRotated": true,
@@ -1263,190 +1245,28 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 76,
-                        "TextureRecord": 12,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 74,
-                        "TextureRecord": 10,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 7,
-                        "TextureRecord": 7,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 0,
-                        "TextureRecord": 0,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 148,
-                        "TextureRecord": 20,
-                        "IsRotated": false,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 203,
-                        "TextureRecord": 11,
+                        "TileBitfield": 247,
+                        "TextureRecord": 55,
                         "IsRotated": true,
                         "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 203,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 203,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 10,
-                        "TextureRecord": 10,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 138,
-                        "TextureRecord": 10,
-                        "IsRotated": false,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 140,
-                        "TextureRecord": 12,
-                        "IsRotated": false,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 22,
-                        "TextureRecord": 22,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 20,
-                        "TextureRecord": 20,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 148,
-                        "TextureRecord": 20,
-                        "IsRotated": false,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 11,
-                        "TextureRecord": 11,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 193,
-                        "TextureRecord": 1,
-                        "IsRotated": true,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 139,
-                        "TextureRecord": 11,
-                        "IsRotated": false,
-                        "IsFlipped": true
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
                     },
                     {
                         "TileBitfield": 66,
@@ -1497,40 +1317,10 @@
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 11,
-                        "TextureRecord": 11,
-                        "IsRotated": false,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
                         "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 139,
-                        "TextureRecord": 11,
-                        "IsRotated": false,
-                        "IsFlipped": true
                     },
                     {
                         "TileBitfield": 66,
@@ -1541,6 +1331,36 @@
                     {
                         "TileBitfield": 66,
                         "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 55,
+                        "TextureRecord": 55,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 119,
+                        "TextureRecord": 55,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
                         "IsRotated": true,
                         "IsFlipped": false
                     },
@@ -1587,44 +1407,128 @@
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 12,
-                        "TextureRecord": 12,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 55,
+                        "TextureRecord": 55,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 10,
-                        "TextureRecord": 10,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 247,
+                        "TextureRecord": 55,
+                        "IsRotated": true,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 22,
+                        "TextureRecord": 22,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
+                        "TileBitfield": 20,
+                        "TextureRecord": 20,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
+                        "TileBitfield": 148,
+                        "TextureRecord": 20,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 150,
+                        "TextureRecord": 22,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 2,
+                        "TextureRecord": 2,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
+                        "TileBitfield": 55,
+                        "TextureRecord": 55,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 139,
-                        "TextureRecord": 11,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 183,
+                        "TextureRecord": 55,
                         "IsRotated": false,
                         "IsFlipped": true
                     },
@@ -1647,16 +1551,22 @@
                         "IsFlipped": false
                     },
                     {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
                         "TileBitfield": 22,
                         "TextureRecord": 22,
                         "IsRotated": false,
                         "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 213,
-                        "TextureRecord": 21,
-                        "IsRotated": true,
-                        "IsFlipped": true
                     },
                     {
                         "TileBitfield": 20,
@@ -1677,50 +1587,140 @@
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 12,
-                        "TextureRecord": 12,
-                        "IsRotated": false,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 10,
-                        "TextureRecord": 10,
-                        "IsRotated": false,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 138,
-                        "TextureRecord": 10,
+                        "TileBitfield": 183,
+                        "TextureRecord": 55,
                         "IsRotated": false,
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 140,
-                        "TextureRecord": 12,
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 20,
+                        "TextureRecord": 20,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 148,
+                        "TextureRecord": 20,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 150,
+                        "TextureRecord": 22,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 55,
+                        "TextureRecord": 55,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
                         "IsRotated": false,
                         "IsFlipped": true
                     },
@@ -1773,44 +1773,44 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 11,
-                        "TextureRecord": 11,
-                        "IsRotated": false,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
+                        "TileBitfield": 66,
+                        "TextureRecord": 2,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 1,
-                        "TextureRecord": 1,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 138,
-                        "TextureRecord": 10,
+                        "TileBitfield": 183,
+                        "TextureRecord": 55,
                         "IsRotated": false,
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 140,
-                        "TextureRecord": 12,
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
                         "IsRotated": false,
                         "IsFlipped": true
                     },
@@ -1863,44 +1863,44 @@
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 66,
-                        "TextureRecord": 2,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 11,
-                        "TextureRecord": 11,
+                        "TileBitfield": 12,
+                        "TextureRecord": 12,
                         "IsRotated": false,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 138,
-                        "TextureRecord": 10,
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 110,
+                        "TextureRecord": 46,
+                        "IsRotated": true,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 2,
+                        "TextureRecord": 2,
+                        "IsRotated": false,
+                        "IsFlipped": false
+                    },
+                    {
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
                         "IsRotated": false,
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 75,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 75,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 75,
-                        "TextureRecord": 11,
-                        "IsRotated": true,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 140,
-                        "TextureRecord": 12,
+                        "TileBitfield": 130,
+                        "TextureRecord": 2,
                         "IsRotated": false,
                         "IsFlipped": true
                     },
@@ -6830,8 +6830,8 @@
         },
         "SubRecords": [
             {
-                "XPos": 4752,
-                "ZPos": 2684,
+                "XPos": 1088,
+                "ZPos": 1856,
                 "YRotation": -1536,
                 "Exterior": {
                     "Header": {
@@ -7971,8 +7971,8 @@
                 }
             },
             {
-                "XPos": 4618,
-                "ZPos": 3350,
+                "XPos": 3648,
+                "ZPos": 3712,
                 "YRotation": -512,
                 "Exterior": {
                     "Header": {
@@ -8467,7 +8467,7 @@
                 }
             },
             {
-                "XPos": 1762,
+                "XPos": 2880,
                 "ZPos": 3776,
                 "YRotation": -1536,
                 "Exterior": {
@@ -8953,7 +8953,7 @@
             },
             {
                 "XPos": 448,
-                "ZPos": 3422,
+                "ZPos": 3584,
                 "YRotation": -1024,
                 "Exterior": {
                     "Header": {
@@ -10435,9 +10435,9 @@
                 }
             },
             {
-                "XPos": 1484,
-                "ZPos": 2576,
-                "YRotation": -1194,
+                "XPos": 2368,
+                "ZPos": 192,
+                "YRotation": 0,
                 "Exterior": {
                     "Header": {
                         "Num3dObjectRecords": 1,
@@ -10920,8 +10920,8 @@
                 }
             },
             {
-                "XPos": 1124,
-                "ZPos": 4640,
+                "XPos": 1856,
+                "ZPos": 3584,
                 "YRotation": -512,
                 "Exterior": {
                     "Header": {
@@ -11491,9 +11491,9 @@
                 }
             },
             {
-                "XPos": 2092,
-                "ZPos": 1185,
-                "YRotation": -768,
+                "XPos": 2240,
+                "ZPos": 960,
+                "YRotation": -1536,
                 "Exterior": {
                     "Header": {
                         "Num3dObjectRecords": 1,
@@ -11944,8 +11944,8 @@
                 }
             },
             {
-                "XPos": 3118,
-                "ZPos": 2302,
+                "XPos": 3264,
+                "ZPos": 3136,
                 "YRotation": -512,
                 "Exterior": {
                     "Header": {
@@ -12492,9 +12492,9 @@
                 }
             },
             {
-                "XPos": 1050,
-                "ZPos": 2242,
-                "YRotation": -768,
+                "XPos": 192,
+                "ZPos": 2816,
+                "YRotation": -1024,
                 "Exterior": {
                     "Header": {
                         "Num3dObjectRecords": 1,
@@ -13110,8 +13110,8 @@
                 }
             },
             {
-                "XPos": 5424,
-                "ZPos": 2905,
+                "XPos": 3648,
+                "ZPos": 2112,
                 "YRotation": -1024,
                 "Exterior": {
                     "Header": {
@@ -13595,8 +13595,8 @@
                 }
             },
             {
-                "XPos": 3925,
-                "ZPos": 2710,
+                "XPos": 3008,
+                "ZPos": 2304,
                 "YRotation": -1024,
                 "Exterior": {
                     "Header": {
@@ -14166,8 +14166,8 @@
                 }
             },
             {
-                "XPos": -612,
-                "ZPos": 1596,
+                "XPos": 1088,
+                "ZPos": 2624,
                 "YRotation": 0,
                 "Exterior": {
                     "Header": {
@@ -14619,8 +14619,8 @@
                 }
             },
             {
-                "XPos": 2831,
-                "ZPos": 3766,
+                "XPos": 2240,
+                "ZPos": 3008,
                 "YRotation": -1536,
                 "Exterior": {
                     "Header": {
@@ -15167,8 +15167,8 @@
                 }
             },
             {
-                "XPos": 4792,
-                "ZPos": 172,
+                "XPos": 1344,
+                "ZPos": 256,
                 "YRotation": -1024,
                 "Exterior": {
                     "Header": {
@@ -15667,9 +15667,9 @@
                 }
             },
             {
-                "XPos": 3606,
-                "ZPos": 3502,
-                "YRotation": -254,
+                "XPos": 1344,
+                "ZPos": 896,
+                "YRotation": -1536,
                 "Exterior": {
                     "Header": {
                         "Num3dObjectRecords": 1,
@@ -16323,8 +16323,8 @@
                 }
             },
             {
-                "XPos": 4520,
-                "ZPos": 1888,
+                "XPos": 576,
+                "ZPos": 896,
                 "YRotation": -512,
                 "Exterior": {
                     "Header": {
@@ -16825,8 +16825,8 @@
                 }
             },
             {
-                "XPos": 4700,
-                "ZPos": 1324,
+                "XPos": 320,
+                "ZPos": 320,
                 "YRotation": -1536,
                 "Exterior": {
                     "Header": {
@@ -17310,8 +17310,8 @@
                 }
             },
             {
-                "XPos": 936,
-                "ZPos": 852,
+                "XPos": 914,
+                "ZPos": 658,
                 "YRotation": -1280,
                 "Exterior": {
                     "Header": {
@@ -17327,7 +17327,7 @@
                             "ModelIdNum": 401,
                             "ObjectType": 4,
                             "XPos": 64,
-                            "YPos": -250,
+                            "YPos": -247,
                             "ZPos": 0,
                             "XRotation": 0,
                             "YRotation": 0,
@@ -17786,9 +17786,9 @@
                 "ModelId": "41221",
                 "ModelIdNum": 41221,
                 "ObjectType": 0,
-                "XPos": 1680,
+                "XPos": 1546,
                 "YPos": -45,
-                "ZPos": -1961,
+                "ZPos": -2054,
                 "XScale": 1.0,
                 "YScale": 1.0,
                 "ZScale": 1.0,
@@ -17800,9 +17800,9 @@
                 "ModelId": "43738",
                 "ModelIdNum": 43738,
                 "ObjectType": 0,
-                "XPos": 1597,
+                "XPos": 1640,
                 "YPos": -68,
-                "ZPos": -961,
+                "ZPos": -2204,
                 "XScale": 1.0,
                 "YScale": 1.0,
                 "ZScale": 1.0,
@@ -17814,205 +17814,23 @@
                 "ModelId": "52638",
                 "ModelIdNum": 52638,
                 "ObjectType": 0,
-                "XPos": 905,
+                "XPos": 872,
                 "YPos": -16,
-                "ZPos": -871,
+                "ZPos": -700,
                 "XScale": 1.0,
                 "YScale": 1.0,
                 "ZScale": 1.0,
                 "XRotation": 0,
                 "YRotation": 0,
                 "ZRotation": 0
-            },
-            {
-                "ModelId": "53170",
-                "ModelIdNum": 53170,
-                "ObjectType": 0,
-                "XPos": 1219,
-                "YPos": -186,
-                "ZPos": -739,
-                "XScale": 2.0,
-                "YScale": 2.0,
-                "ZScale": 2.0,
-                "XRotation": 0,
-                "YRotation": -1792,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "40720",
-                "ModelIdNum": 40720,
-                "ObjectType": 0,
-                "XPos": 1519,
-                "YPos": 21,
-                "ZPos": -988,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -1792,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "21728",
-                "ModelIdNum": 21728,
-                "ObjectType": 0,
-                "XPos": 1429,
-                "YPos": -108,
-                "ZPos": -898,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -768,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53160",
-                "ModelIdNum": 53160,
-                "ObjectType": 0,
-                "XPos": 1338,
-                "YPos": -218,
-                "ZPos": -808,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -1792,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53160",
-                "ModelIdNum": 53160,
-                "ObjectType": 0,
-                "XPos": 1429,
-                "YPos": -76,
-                "ZPos": -898,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -1792,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53170",
-                "ModelIdNum": 53170,
-                "ObjectType": 0,
-                "XPos": 403,
-                "YPos": -218,
-                "ZPos": -739,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -1792,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53129",
-                "ModelIdNum": 53129,
-                "ObjectType": 0,
-                "XPos": 2412,
-                "YPos": 2,
-                "ZPos": -2572,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -1707,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53129",
-                "ModelIdNum": 53129,
-                "ObjectType": 0,
-                "XPos": 2115,
-                "YPos": 2,
-                "ZPos": -2397,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -683,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53037",
-                "ModelIdNum": 53037,
-                "ObjectType": 0,
-                "XPos": 1670,
-                "YPos": -3,
-                "ZPos": -328,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -448,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53037",
-                "ModelIdNum": 53037,
-                "ObjectType": 0,
-                "XPos": 1186,
-                "YPos": -1,
-                "ZPos": -1366,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -933,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "52663",
-                "ModelIdNum": 52663,
-                "ObjectType": 0,
-                "XPos": 500,
-                "YPos": -8,
-                "ZPos": -1662,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": -1814,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53038",
-                "ModelIdNum": 53038,
-                "ObjectType": 0,
-                "XPos": 520,
-                "YPos": 7,
-                "ZPos": -379,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": 0,
-                "YRotation": 0,
-                "ZRotation": 0
-            },
-            {
-                "ModelId": "53037",
-                "ModelIdNum": 53037,
-                "ObjectType": 0,
-                "XPos": 1851,
-                "YPos": 47,
-                "ZPos": -2552,
-                "XScale": 1.0,
-                "YScale": 1.0,
-                "ZScale": 1.0,
-                "XRotation": -1986,
-                "YRotation": -246,
-                "ZRotation": -65
             }
         ],
         "MiscFlatObjectRecords": [
             {
                 "Position": 54929,
-                "XPos": 3388,
+                "XPos": 3539,
                 "YPos": -4,
-                "ZPos": -2996,
+                "ZPos": -2767,
                 "TextureArchive": 210,
                 "TextureRecord": 29,
                 "FactionID": 0,
@@ -18020,9 +17838,9 @@
             },
             {
                 "Position": 54946,
-                "XPos": 1440,
+                "XPos": 2513,
                 "YPos": -4,
-                "ZPos": -1924,
+                "ZPos": -3573,
                 "TextureArchive": 210,
                 "TextureRecord": 29,
                 "FactionID": 0,
