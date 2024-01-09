@@ -13335,7 +13335,7 @@
                             "ModelIdNum": 401,
                             "ObjectType": 4,
                             "XPos": 64,
-                            "YPos": -248,
+                            "YPos": -245,
                             "ZPos": 0,
                             "XRotation": 0,
                             "YRotation": 0,
@@ -14139,6 +14139,20 @@
                 "XRotation": 0,
                 "YRotation": -256,
                 "ZRotation": 0
+            },
+            {
+                "ModelId": "41241",
+                "ModelIdNum": 41241,
+                "ObjectType": 0,
+                "XPos": 3650,
+                "YPos": -35,
+                "ZPos": -676,
+                "XScale": 1.0,
+                "YScale": 1.0,
+                "ZScale": 1.0,
+                "XRotation": 0,
+                "YRotation": -1451,
+                "ZRotation": 0
             }
         ],
         "MiscFlatObjectRecords": [
@@ -14329,6 +14343,36 @@
                 "ZPos": -1004,
                 "TextureArchive": 97,
                 "TextureRecord": 6,
+                "FactionID": 0,
+                "Flags": 0
+            },
+            {
+                "Position": 0,
+                "XPos": 3040,
+                "YPos": -5,
+                "ZPos": -2956,
+                "TextureArchive": 212,
+                "TextureRecord": 0,
+                "FactionID": 0,
+                "Flags": 0
+            },
+            {
+                "Position": 0,
+                "XPos": 3043,
+                "YPos": -5,
+                "ZPos": -2876,
+                "TextureArchive": 212,
+                "TextureRecord": 8,
+                "FactionID": 0,
+                "Flags": 0
+            },
+            {
+                "Position": 0,
+                "XPos": 2806,
+                "YPos": -4,
+                "ZPos": -3332,
+                "TextureArchive": 201,
+                "TextureRecord": 7,
                 "FactionID": 0,
                 "Flags": 0
             }
