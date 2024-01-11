@@ -1663,16 +1663,16 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 2,
-                        "TextureRecord": 2,
-                        "IsRotated": false,
+                        "TileBitfield": 75,
+                        "TextureRecord": 11,
+                        "IsRotated": true,
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 2,
-                        "TextureRecord": 2,
+                        "TileBitfield": 140,
+                        "TextureRecord": 12,
                         "IsRotated": false,
-                        "IsFlipped": false
+                        "IsFlipped": true
                     },
                     {
                         "TileBitfield": 2,
@@ -12409,6 +12409,20 @@
                 "ZScale": 1.0,
                 "XRotation": 0,
                 "YRotation": 0,
+                "ZRotation": 0
+            },
+            {
+                "ModelId": "25800",
+                "ModelIdNum": 25800,
+                "ObjectType": 0,
+                "XPos": 384,
+                "YPos": -386,
+                "ZPos": -3328,
+                "XScale": 1.0,
+                "YScale": 1.0,
+                "ZScale": 1.0,
+                "XRotation": 0,
+                "YRotation": -1536,
                 "ZRotation": 0
             }
         ],
