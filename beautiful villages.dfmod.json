@@ -3,7 +3,7 @@
     "ModVersion": "1.1",
     "ModAuthor": "carademono",
     "ContactInfo": "Lysandus' Tomb Discord server",
-    "DFUnity_Version": "0.15.0",
+    "DFUnity_Version": "1.0.0",
     "ModDescription": "Overhauls villages across the Iliac Bay",
     "GUID": "b2324db6-7557-499a-aa25-d5e99014331d",
     "Files": [
@@ -2194,7 +2194,11 @@
         "Assets/Game/Mods/beautiful-villages-locations/WorldData/location-16-521.json",
         "Assets/Game/Mods/beautiful-villages/WorldData/GENRAS03.RMB.json",
         "Assets/Game/Mods/beautiful-villages/WorldData/GENRAS04.RMB.json",
-        "Assets/Game/Mods/beautiful-villages/WorldData/GENRAS05.RMB.json"
+        "Assets/Game/Mods/beautiful-villages/WorldData/GENRAS05.RMB.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/TEMPASH2.RMB.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/TEMPASH1.RMB.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/TEMPASH3.RMB.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/TEMPASH4.RMB.json"
     ],
     "Dependencies": [
         {
