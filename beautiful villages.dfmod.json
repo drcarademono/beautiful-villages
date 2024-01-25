@@ -2205,12 +2205,13 @@
             "Name": "rmb resource pack",
             "IsOptional": false,
             "IsPeer": true,
-            "Version": "0.1.1"
+            "Version": "0.1.2"
         },
         {
             "Name": "daggerfall expanded textures",
             "IsOptional": false,
-            "IsPeer": true
+            "IsPeer": true,
+            "Version": "0.5.0"
         }
     ]
 }
