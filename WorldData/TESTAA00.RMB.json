@@ -6956,7 +6956,88 @@
             }
         ],
         "Misc3dObjectRecords": [],
-        "MiscFlatObjectRecords": []
+        "MiscFlatObjectRecords": [
+            {
+                "Position": 0,
+                "XPos": 1888,
+                "YPos": -4,
+                "ZPos": -882,
+                "TextureArchive": 182,
+                "TextureRecord": 20,
+                "FactionID": 584,
+                "Flags": 0
+            },
+            {
+                "Position": 1140317394,
+                "XPos": 1240,
+                "YPos": -4,
+                "ZPos": -593,
+                "TextureArchive": 182,
+                "TextureRecord": 20,
+                "FactionID": 584,
+                "Flags": 0
+            },
+            {
+                "Position": 2000299207,
+                "XPos": 1489,
+                "YPos": -5,
+                "ZPos": -624,
+                "TextureArchive": 182,
+                "TextureRecord": 46,
+                "FactionID": 584,
+                "Flags": 0
+            },
+            {
+                "Position": 2137876171,
+                "XPos": 1564,
+                "YPos": -5,
+                "ZPos": -913,
+                "TextureArchive": 184,
+                "TextureRecord": 28,
+                "FactionID": 584,
+                "Flags": 0
+            },
+            {
+                "Position": 2093620835,
+                "XPos": 1612,
+                "YPos": -5,
+                "ZPos": -418,
+                "TextureArchive": 184,
+                "TextureRecord": 28,
+                "FactionID": 584,
+                "Flags": 0
+            },
+            {
+                "Position": 486940200,
+                "XPos": 1666,
+                "YPos": -5,
+                "ZPos": -646,
+                "TextureArchive": 210,
+                "TextureRecord": 0,
+                "FactionID": 0,
+                "Flags": 0
+            },
+            {
+                "Position": 1616705566,
+                "XPos": 1891,
+                "YPos": -4,
+                "ZPos": -682,
+                "TextureArchive": 253,
+                "TextureRecord": 21,
+                "FactionID": 0,
+                "Flags": 0
+            },
+            {
+                "Position": 453042351,
+                "XPos": 1127,
+                "YPos": -4,
+                "ZPos": -1127,
+                "TextureArchive": 253,
+                "TextureRecord": 21,
+                "FactionID": 0,
+                "Flags": 0
+            }
+        ]
     },
     "RdbBlock": {
         "ModelReferenceList": null,
