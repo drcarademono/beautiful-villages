@@ -6993,7 +6993,7 @@
                 "YRotation": 0,
                 "Exterior": {
                     "Header": {
-                        "Num3dObjectRecords": 1,
+                        "Num3dObjectRecords": 5,
                         "NumFlatObjectRecords": 0,
                         "NumSection3Records": 0,
                         "NumPeopleRecords": 0,
@@ -7009,6 +7009,50 @@
                             "ZPos": 32,
                             "XRotation": 0,
                             "YRotation": 0,
+                            "ZRotation": 0
+                        },
+                        {
+                            "ModelId": "52990",
+                            "ModelIdNum": 52990,
+                            "ObjectType": 3,
+                            "XPos": 64,
+                            "YPos": -258,
+                            "ZPos": 368,
+                            "XRotation": 0,
+                            "YRotation": -1012,
+                            "ZRotation": 0
+                        },
+                        {
+                            "ModelId": "45077",
+                            "ModelIdNum": 45077,
+                            "ObjectType": 3,
+                            "XPos": 64,
+                            "YPos": -144,
+                            "ZPos": 368,
+                            "XRotation": 0,
+                            "YRotation": -1012,
+                            "ZRotation": 0
+                        },
+                        {
+                            "ModelId": "45076",
+                            "ModelIdNum": 45076,
+                            "ObjectType": 3,
+                            "XPos": 64,
+                            "YPos": -30,
+                            "ZPos": 368,
+                            "XRotation": 0,
+                            "YRotation": -1012,
+                            "ZRotation": 0
+                        },
+                        {
+                            "ModelId": "45076",
+                            "ModelIdNum": 45076,
+                            "ObjectType": 3,
+                            "XPos": 64,
+                            "YPos": 84,
+                            "ZPos": 368,
+                            "XRotation": 0,
+                            "YRotation": -1012,
                             "ZRotation": 0
                         }
                     ],
