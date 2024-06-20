@@ -1,6 +1,6 @@
 {
     "ModTitle": "Beautiful Villages of Daggerfall",
-    "ModVersion": "1.1.2",
+    "ModVersion": "1.2.0",
     "ModAuthor": "carademono",
     "ContactInfo": "Lysandus' Tomb Discord server",
     "DFUnity_Version": "1.0.0",
@@ -2229,13 +2229,18 @@
             "Name": "rmb resource pack",
             "IsOptional": false,
             "IsPeer": true,
-            "Version": "0.1.2"
+            "Version": "0.1.8"
         },
         {
             "Name": "daggerfall expanded textures",
             "IsOptional": false,
             "IsPeer": true,
-            "Version": "0.5.0"
+            "Version": "0.6.3"
+        },
+        {
+            "Name": "windmills of daggerfall",
+            "IsOptional": false,
+            "IsPeer": true
         }
     ]
 }

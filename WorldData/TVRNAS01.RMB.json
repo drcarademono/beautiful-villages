@@ -6682,7 +6682,7 @@
             ],
             "Name": "TVRNAS01.RMB",
             "OtherNames": [
-                "T2.HS2\\02.HS2",
+                "T2.HS202.HS2",
                 "DHAUS034.HS2",
                 "DHAUS033.HS2",
                 "DHAUS039.HS2",
@@ -6749,7 +6749,7 @@
                             "YPos": -229,
                             "ZPos": 160,
                             "XRotation": 0,
-                            "YRotation": -252,
+                            "YRotation": 0,
                             "ZRotation": 0
                         },
                         {
@@ -6760,8 +6760,10 @@
                             "YPos": -100,
                             "ZPos": 160,
                             "XRotation": 0,
-                            "YRotation": -252,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
@@ -6771,8 +6773,10 @@
                             "YPos": 14,
                             "ZPos": 160,
                             "XRotation": 0,
-                            "YRotation": -252,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         }
                     ],
                     "BlockFlatObjectRecords": [],
@@ -7010,7 +7014,7 @@
                             "YPos": -229,
                             "ZPos": -232,
                             "XRotation": 0,
-                            "YRotation": 4,
+                            "YRotation": 0,
                             "ZRotation": 0
                         },
                         {
@@ -7021,8 +7025,10 @@
                             "YPos": -100,
                             "ZPos": -232,
                             "XRotation": 0,
-                            "YRotation": 4,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
@@ -7032,8 +7038,10 @@
                             "YPos": 14,
                             "ZPos": -232,
                             "XRotation": 0,
-                            "YRotation": 4,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         }
                     ],
                     "BlockFlatObjectRecords": [],
@@ -7291,7 +7299,7 @@
                             "YPos": -229,
                             "ZPos": -80,
                             "XRotation": 0,
-                            "YRotation": 1537,
+                            "YRotation": 0,
                             "ZRotation": 0
                         },
                         {
@@ -7302,8 +7310,10 @@
                             "YPos": -100,
                             "ZPos": -80,
                             "XRotation": 0,
-                            "YRotation": 1537,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
@@ -7313,8 +7323,10 @@
                             "YPos": 14,
                             "ZPos": -80,
                             "XRotation": 0,
-                            "YRotation": 1537,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         }
                     ],
                     "BlockFlatObjectRecords": [],
@@ -7609,10 +7621,10 @@
                             "ModelIdNum": 52991,
                             "ObjectType": 4,
                             "XPos": -96,
-                            "YPos": -229,
+                            "YPos": -228,
                             "ZPos": -224,
                             "XRotation": 0,
-                            "YRotation": -242,
+                            "YRotation": 0,
                             "ZRotation": 0
                         },
                         {
@@ -7620,22 +7632,26 @@
                             "ModelIdNum": 45077,
                             "ObjectType": 4,
                             "XPos": -96,
-                            "YPos": -100,
+                            "YPos": -99,
                             "ZPos": -224,
                             "XRotation": 0,
-                            "YRotation": -242,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
                             "ModelIdNum": 45076,
                             "ObjectType": 4,
                             "XPos": -96,
-                            "YPos": 14,
+                            "YPos": 15,
                             "ZPos": -224,
                             "XRotation": 0,
-                            "YRotation": -242,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         }
                     ],
                     "BlockFlatObjectRecords": [],
@@ -8035,7 +8051,7 @@
                             "YPos": -225,
                             "ZPos": 288,
                             "XRotation": 0,
-                            "YRotation": -1280,
+                            "YRotation": 0,
                             "ZRotation": 0
                         },
                         {
@@ -8046,8 +8062,10 @@
                             "YPos": -96,
                             "ZPos": 288,
                             "XRotation": 0,
-                            "YRotation": -1280,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
@@ -8057,8 +8075,10 @@
                             "YPos": 18,
                             "ZPos": 288,
                             "XRotation": 0,
-                            "YRotation": -1280,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         }
                     ],
                     "BlockFlatObjectRecords": [],
@@ -8502,7 +8522,7 @@
                             "YPos": -225,
                             "ZPos": 288,
                             "XRotation": 0,
-                            "YRotation": -1280,
+                            "YRotation": 0,
                             "ZRotation": 0
                         },
                         {
@@ -8513,8 +8533,10 @@
                             "YPos": -96,
                             "ZPos": 288,
                             "XRotation": 0,
-                            "YRotation": -1280,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
@@ -8524,8 +8546,10 @@
                             "YPos": 18,
                             "ZPos": 288,
                             "XRotation": 0,
-                            "YRotation": -1280,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         }
                     ],
                     "BlockFlatObjectRecords": [],
@@ -9035,7 +9059,7 @@
                             "YPos": -371,
                             "ZPos": -68,
                             "XRotation": 0,
-                            "YRotation": -1536,
+                            "YRotation": 0,
                             "ZRotation": 0
                         },
                         {
@@ -9046,8 +9070,10 @@
                             "YPos": -242,
                             "ZPos": -68,
                             "XRotation": 0,
-                            "YRotation": -1536,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
@@ -9057,8 +9083,10 @@
                             "YPos": -128,
                             "ZPos": -68,
                             "XRotation": 0,
-                            "YRotation": -1536,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
@@ -9068,8 +9096,10 @@
                             "YPos": -14,
                             "ZPos": -68,
                             "XRotation": 0,
-                            "YRotation": -1536,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
@@ -9079,8 +9109,10 @@
                             "YPos": 100,
                             "ZPos": -68,
                             "XRotation": 0,
-                            "YRotation": -1536,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         }
                     ],
                     "BlockFlatObjectRecords": [

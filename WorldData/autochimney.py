@@ -4,14 +4,11 @@ import pandas as pd
 import re
 
 def remove_entries(json_data):
-    # Define the ModelIdNum values to be removed
     remove_ids = {52990, 52991, 45074, 45075, 45076, 45077}
     
     def filter_records(records):
-        """Helper function to filter out records with specified ModelIdNum values."""
         return [record for record in records if record.get('ModelIdNum') not in remove_ids]
 
-    # Check and filter records in RmbBlock.SubRecords
     if "RmbBlock" in json_data and "SubRecords" in json_data["RmbBlock"]:
         for sub_record in json_data["RmbBlock"]["SubRecords"]:
             if "Exterior" in sub_record:
@@ -19,19 +16,21 @@ def remove_entries(json_data):
             if "Interior" in sub_record:
                 sub_record["Interior"]["Block3dObjectRecords"] = filter_records(sub_record["Interior"]["Block3dObjectRecords"])
 
-    # Check and filter records in RmbBlock.Misc3dObjectRecords
-    if "RmbBlock" in json_data and "Misc3dObjectRecords" in json_data["RmbBlock"]:
-        json_data["RmbBlock"]["Misc3dObjectRecords"] = filter_records(json_data["RmbBlock"]["Misc3dObjectRecords"])
-    
+    if "RmbSubRecord" in json_data and "Exterior" in json_data["RmbSubRecord"]:
+        json_data["RmbSubRecord"]["Exterior"]["Block3dObjectRecords"] = filter_records(json_data["RmbSubRecord"]["Exterior"]["Block3dObjectRecords"])
+    if "RmbSubRecord" in json_data and "Interior" in json_data["RmbSubRecord"]:
+        json_data["RmbSubRecord"]["Interior"]["Block3dObjectRecords"] = filter_records(json_data["RmbSubRecord"]["Interior"]["Block3dObjectRecords"])
+
     return json_data
 
 def add_new_entries(json_data, building_dimensions):
-    # Convert index to string to ensure consistency in comparisons
     building_dimensions.index = building_dimensions.index.map(str)
     
     def find_max_y_and_rotation(exterior_records):
         max_y = float('-inf')
         max_y_rotation = 0
+        exterior_y_pos = 0
+        max_model_id = None
         for record in exterior_records:
             model_id = record.get("ModelId")
             if model_id and str(model_id) in building_dimensions.index:
@@ -39,80 +38,87 @@ def add_new_entries(json_data, building_dimensions):
                 if y_value > max_y:
                     max_y = y_value
                     max_y_rotation = record.get("YRotation", 0)
-        return max_y, max_y_rotation
+                    exterior_y_pos = record.get("YPos", 0)
+                    max_model_id = str(model_id)
+        return max_y, max_y_rotation, exterior_y_pos, max_model_id
 
-    # Check SubRecords for matching Interior Block3dObjectRecords
+    def process_subrecord(sub_record):
+        if "Interior" in sub_record and "Exterior" in sub_record:
+            interior_records = sub_record["Interior"]["Block3dObjectRecords"]
+            exterior_records = sub_record["Exterior"]["Block3dObjectRecords"]
+
+            matching_interior = any(record.get("ModelIdNum") in {41116, 41117} and record.get("YPos", 0) >= -100 for record in interior_records)
+            
+            if matching_interior:
+                max_y_value, max_y_rotation, exterior_y_pos, max_model_id = find_max_y_and_rotation(exterior_records)
+                model_offset = building_dimensions.loc[max_model_id, "ModelOffset"] if max_model_id in building_dimensions.index else 0
+                print(f"ModelId: {max_model_id}, ModelOffset: {model_offset}")
+                print(f"ModelId: {max_model_id}, ExteriorYPos: {exterior_y_pos}")
+
+                if pd.isna(max_y_value):
+                    max_y_value = 0
+                if pd.isna(exterior_y_pos):
+                    exterior_y_pos = 0
+                if pd.isna(model_offset):
+                    model_offset = 0
+
+                for interior_record in interior_records:
+                    if interior_record.get("ModelIdNum") in {41116, 41117} and interior_record.get("YPos", 0) >= -100:
+                        new_record_52991 = interior_record.copy()
+                        new_record_52991["ModelId"] = "52991"
+                        new_record_52991["ModelIdNum"] = 52991
+                        new_record_52991["ObjectType"] = 4
+                        new_record_52991["YRotation"] = max_y_rotation
+                        if max_y_value != float('-inf'):
+                            if max_y_value <= 220:
+                                new_record_52991["YPos"] = int(-(max_y_value + 20 - exterior_y_pos + model_offset))
+                            elif max_y_value >= 300:
+                                new_record_52991["YPos"] = int(-(max_y_value - 80 - exterior_y_pos + model_offset))
+                            else:
+                                new_record_52991["YPos"] = int(-(max_y_value - exterior_y_pos + model_offset))
+                        else:
+                            new_record_52991["YPos"] = 0
+                        
+                        exterior_records.append(new_record_52991)
+                        
+                        new_record_45077 = new_record_52991.copy()
+                        new_record_45077["ModelId"] = "45077"
+                        new_record_45077["ModelIdNum"] = 45077
+                        new_record_45077["YPos"] += 129
+                        new_record_45077["XScale"] = 0.9
+                        new_record_45077["ZScale"] = 0.9
+                        exterior_records.append(new_record_45077)
+                        
+                        current_y_pos = new_record_45077["YPos"]
+                        while current_y_pos <= 0:
+                            new_record_45076 = new_record_45077.copy()
+                            new_record_45076["ModelId"] = "45076"
+                            new_record_45076["ModelIdNum"] = 45076
+                            new_record_45076["YPos"] = current_y_pos + 114
+                            new_record_45076["XScale"] = 0.9
+                            new_record_45076["ZScale"] = 0.9
+                            exterior_records.append(new_record_45076)
+                            
+                            current_y_pos += 114
+                            if current_y_pos > 0:
+                                break
+
+                sub_record["Exterior"]["Header"]["Num3dObjectRecords"] = len(exterior_records)
+
     if "RmbBlock" in json_data and "SubRecords" in json_data["RmbBlock"]:
         for sub_record in json_data["RmbBlock"]["SubRecords"]:
-            if "Interior" in sub_record and "Exterior" in sub_record:
-                interior_records = sub_record["Interior"]["Block3dObjectRecords"]
-                exterior_records = sub_record["Exterior"]["Block3dObjectRecords"]
+            process_subrecord(sub_record)
+    elif "RmbSubRecord" in json_data:
+        process_subrecord(json_data["RmbSubRecord"])
 
-                # Find if there are any matching Interior records
-                matching_interior = any(record.get("ModelIdNum") in {41116, 41117} for record in interior_records)
-                
-                if matching_interior:
-                    # Find max Y value and rotation from exterior records
-                    max_y_value, max_y_rotation = find_max_y_and_rotation(exterior_records)
-
-                    # Add new entries to Exterior if matching Interior entries are found
-                    for interior_record in interior_records:
-                        if interior_record.get("ModelIdNum") in {41116, 41117}:
-                            new_record_52991 = interior_record.copy()
-                            new_record_52991["ModelId"] = "52991"
-                            new_record_52991["ModelIdNum"] = 52991
-                            new_record_52991["ObjectType"] = 4
-                            new_record_52991["YRotation"] = max_y_rotation
-                            if max_y_value != float('-inf'):
-                                if max_y_value <= 220:
-                                    new_record_52991["YPos"] = int(-(max_y_value + 20))
-                                elif max_y_value >= 300:
-                                    new_record_52991["YPos"] = int(-(max_y_value - 80))
-                                else:
-                                    new_record_52991["YPos"] = int(-(max_y_value))
-                            else:
-                                new_record_52991["YPos"] = 0  # Default value if no valid max Y value is found
-                            
-                            exterior_records.append(new_record_52991)
-                            
-                            new_record_45077 = new_record_52991.copy()
-                            new_record_45077["ModelId"] = "45077"
-                            new_record_45077["ModelIdNum"] = 45077
-                            new_record_45077["YPos"] += 129
-                            new_record_45077["XScale"] = 0.9
-                            new_record_45077["ZScale"] = 0.9
-                            exterior_records.append(new_record_45077)
-                            
-                            current_y_pos = new_record_45077["YPos"]
-                            while current_y_pos <= 0:
-                                new_record_45076 = new_record_45077.copy()
-                                new_record_45076["ModelId"] = "45076"
-                                new_record_45076["ModelIdNum"] = 45076
-                                new_record_45076["YPos"] = current_y_pos + 114
-                                new_record_45076["XScale"] = 0.9
-                                new_record_45076["ZScale"] = 0.9
-                                exterior_records.append(new_record_45076)
-                                
-                                current_y_pos += 114
-                                if current_y_pos > 0:
-                                    break
-
-                    # Update Num3dObjectRecords in the Exterior header
-                    sub_record["Exterior"]["Header"]["Num3dObjectRecords"] = len(exterior_records)
-    
     return json_data
 
-# Function to escape invalid sequences
 def sanitize_json_string(json_string):
-    # Regex pattern to find invalid escape sequences
-    pattern = re.compile(r'\\(?![btnfr"\\])')
-    return pattern.sub(r'\\\\', json_string)
+    sanitized_string = json_string.replace('\\', '')
+    return sanitized_string
 
-# Read the CSV file with comma separator and check for correct columns
 try:
     building_dimensions = pd.read_csv('BuildingDimensions.csv')
-
-    # Set ModelID as the index column if it exists
     if 'ModelId' in building_dimensions.columns:
         building_dimensions.set_index('ModelId', inplace=True)
     else:
@@ -120,10 +126,9 @@ try:
 except Exception as e:
     print(f"Error reading CSV file: {e}")
 
-# Process all JSON files in the current directory
 for filename in os.listdir('.'):
     if filename.endswith('.json'):
-        print(f"Processing file: {filename}")  # Debug message
+        print(f"Processing file: {filename}")
         try:
             with open(filename, 'r') as file:
                 json_string = file.read()
@@ -133,11 +138,9 @@ for filename in os.listdir('.'):
             print(f"Error decoding JSON file {filename}: {e}")
             continue
         
-        # Process the data
         updated_data = remove_entries(data)
         updated_data = add_new_entries(updated_data, building_dimensions)
         
-        # Save the updated JSON data
         with open(filename, 'w') as file:
             json.dump(updated_data, file, indent=4)
 
