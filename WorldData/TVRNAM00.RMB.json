@@ -1271,21 +1271,21 @@
                         "IsFlipped": false
                     },
                     {
-                        "TileBitfield": 20,
-                        "TextureRecord": 20,
-                        "IsRotated": false,
-                        "IsFlipped": false
-                    },
-                    {
-                        "TileBitfield": 147,
-                        "TextureRecord": 19,
-                        "IsRotated": false,
+                        "TileBitfield": 213,
+                        "TextureRecord": 21,
+                        "IsRotated": true,
                         "IsFlipped": true
                     },
                     {
-                        "TileBitfield": 149,
+                        "TileBitfield": 213,
                         "TextureRecord": 21,
-                        "IsRotated": false,
+                        "IsRotated": true,
+                        "IsFlipped": true
+                    },
+                    {
+                        "TileBitfield": 214,
+                        "TextureRecord": 22,
+                        "IsRotated": true,
                         "IsFlipped": true
                     },
                     {
