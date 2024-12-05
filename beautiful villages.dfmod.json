@@ -4183,6 +4183,16 @@
             "Name": "windmills of daggerfall",
             "IsOptional": false,
             "IsPeer": true
+        },
+        {
+            "Name": "fixed desert architecture",
+            "IsOptional": false,
+            "IsPeer": false
+        },
+        {
+            "Name": "finding my religion",
+            "IsOptional": false,
+            "IsPeer": false
         }
     ]
 }
