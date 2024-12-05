@@ -292,12 +292,10 @@
                     "Quality": 4
                 },
                 {
-                    "NameSeed": 0,
                     "FactionId": 0,
-                    "Sector": 0,
-                    "LocationId": 0,
-                    "BuildingType": "Bank",
-                    "Quality": 12
+                    "BuildingType": 3,
+                    "Quality": 12,
+                    "NameSeed": 0
                 }
             ],
             "BlockDataSizes": [
@@ -15732,7 +15730,7 @@
                             "ZPos": 216,
                             "TextureArchive": 199,
                             "TextureRecord": 20,
-                            "FactionID": 398,
+                            "FactionID": 0,
                             "Flags": 17
                         },
                         {
@@ -15742,7 +15740,7 @@
                             "ZPos": 208,
                             "TextureArchive": 199,
                             "TextureRecord": 20,
-                            "FactionID": 398,
+                            "FactionID": 0,
                             "Flags": 17
                         },
                         {
@@ -15752,7 +15750,7 @@
                             "ZPos": -72,
                             "TextureArchive": 199,
                             "TextureRecord": 20,
-                            "FactionID": 398,
+                            "FactionID": 0,
                             "Flags": 17
                         },
                         {
@@ -15762,7 +15760,7 @@
                             "ZPos": -8,
                             "TextureArchive": 199,
                             "TextureRecord": 20,
-                            "FactionID": 398,
+                            "FactionID": 0,
                             "Flags": 17
                         },
                         {
@@ -15772,7 +15770,7 @@
                             "ZPos": 64,
                             "TextureArchive": 199,
                             "TextureRecord": 20,
-                            "FactionID": 398,
+                            "FactionID": 0,
                             "Flags": 17
                         },
                         {
@@ -16097,8 +16095,7 @@
                             "YPos": -45,
                             "ZPos": 343,
                             "YRotation": 1536,
-                            "OpenRotation": 90,
-                            "DoorModelIndex": 0
+                            "OpenRotation": 90
                         },
                         {
                             "Position": 41445,
@@ -16106,8 +16103,7 @@
                             "YPos": -174,
                             "ZPos": -129,
                             "YRotation": 1024,
-                            "OpenRotation": 90,
-                            "DoorModelIndex": 0
+                            "OpenRotation": 90
                         },
                         {
                             "Position": 41464,
@@ -16115,8 +16111,7 @@
                             "YPos": -174,
                             "ZPos": -129,
                             "YRotation": 1024,
-                            "OpenRotation": 90,
-                            "DoorModelIndex": 0
+                            "OpenRotation": 90
                         },
                         {
                             "Position": 41483,
@@ -16124,8 +16119,7 @@
                             "YPos": -174,
                             "ZPos": 87,
                             "YRotation": 1536,
-                            "OpenRotation": 90,
-                            "DoorModelIndex": 0
+                            "OpenRotation": 90
                         },
                         {
                             "Position": 41502,
@@ -16133,8 +16127,7 @@
                             "YPos": -45,
                             "ZPos": -169,
                             "YRotation": 1536,
-                            "OpenRotation": 90,
-                            "DoorModelIndex": 0
+                            "OpenRotation": 90
                         },
                         {
                             "Position": 41521,
@@ -16142,11 +16135,11 @@
                             "YPos": -45,
                             "ZPos": -1,
                             "YRotation": 1024,
-                            "OpenRotation": 90,
-                            "DoorModelIndex": 0
+                            "OpenRotation": 90
                         }
                     ]
-                }
+                },
+                "FactionId": 0
             }
         ],
         "Misc3dObjectRecords": [
