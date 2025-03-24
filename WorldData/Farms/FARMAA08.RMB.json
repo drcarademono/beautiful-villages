@@ -6675,7 +6675,7 @@
                 "YRotation": 0,
                 "Exterior": {
                     "Header": {
-                        "Num3dObjectRecords": 1,
+                        "Num3dObjectRecords": 5,
                         "NumFlatObjectRecords": 0,
                         "NumSection3Records": 0,
                         "NumPeopleRecords": 0,
@@ -6694,48 +6694,54 @@
                             "ZRotation": 0
                         },
                         {
-                            "ModelId": "52990",
-                            "ModelIdNum": 52990,
-                            "ObjectType": 3,
+                            "ModelId": "52991",
+                            "ModelIdNum": 52991,
+                            "ObjectType": 4,
                             "XPos": -120,
-                            "YPos": -305,
+                            "YPos": -322,
                             "ZPos": 24,
                             "XRotation": 0,
-                            "YRotation": 24,
+                            "YRotation": 0,
                             "ZRotation": 0
                         },
                         {
                             "ModelId": "45077",
                             "ModelIdNum": 45077,
-                            "ObjectType": 3,
+                            "ObjectType": 4,
                             "XPos": -120,
-                            "YPos": -191,
+                            "YPos": -193,
                             "ZPos": 24,
                             "XRotation": 0,
-                            "YRotation": 24,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
                             "ModelIdNum": 45076,
-                            "ObjectType": 3,
+                            "ObjectType": 4,
                             "XPos": -120,
-                            "YPos": -77,
+                            "YPos": -79,
                             "ZPos": 24,
                             "XRotation": 0,
-                            "YRotation": 24,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         },
                         {
                             "ModelId": "45076",
                             "ModelIdNum": 45076,
-                            "ObjectType": 3,
+                            "ObjectType": 4,
                             "XPos": -120,
-                            "YPos": 37,
+                            "YPos": 35,
                             "ZPos": 24,
                             "XRotation": 0,
-                            "YRotation": 24,
-                            "ZRotation": 0
+                            "YRotation": 0,
+                            "ZRotation": 0,
+                            "XScale": 0.9,
+                            "ZScale": 0.9
                         }
                     ],
                     "BlockFlatObjectRecords": [],
