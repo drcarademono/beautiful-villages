@@ -1,0 +1,26 @@
+{
+    "ModTitle": "Beautiful Villages - Archaeologists Guild Patch",
+    "ModVersion": "1.4.0",
+    "ModAuthor": "carademono & Hazelnut",
+    "ContactInfo": "Lysandus' Tomb Discord server",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "Patches Beautiful Villages to add Archaeologists Guild compatibility",
+    "GUID": "e145f973-36da-4d3d-b335-c981a1a52fc9",
+    "Files": [
+        "Assets/Game/Mods/beautiful-villages/WorldData/Archaeologists Patch/RESIAM10.RMB-543-building10.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/Archaeologists Patch/RESIAM10.RMB.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/Archaeologists Patch/GENRBM00.RMB.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/Archaeologists Patch/RESIGS04.RMB-166-building1.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/Archaeologists Patch/GENRBM00.RMB-388-building8.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/Archaeologists Patch/RESIGS04.RMB.json",
+        "Assets/Game/Mods/beautiful-villages/beautiful villages - archaeologists-patch.dfmod.json",
+        "Assets/Game/Mods/beautiful-villages/WorldData/Archaeologists Patch/location-43-98.json"
+    ],
+    "Dependencies": [
+        {
+            "Name": "beautiful villages",
+            "IsOptional": false,
+            "IsPeer": false
+        }
+    ]
+}
