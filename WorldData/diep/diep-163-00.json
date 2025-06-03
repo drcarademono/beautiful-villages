@@ -1,0 +1,939 @@
+{
+  "FactionId": 0,
+  "BuildingType": 18,
+  "Quality": 6,
+  "NameSeed": 0,
+  "RmbSubRecord": {
+    "XPos": 256,
+    "ZPos": 2560,
+    "YRotation": 512,
+    "Exterior": {
+      "Header": {
+        "Num3dObjectRecords": 1,
+        "NumFlatObjectRecords": 0,
+        "NumSection3Records": 0,
+        "NumPeopleRecords": 0,
+        "NumDoorRecords": 0
+      },
+      "Block3dObjectRecords": [
+        {
+          "ModelId": "41105",
+          "ModelIdNum": 41105,
+          "ObjectType": 4,
+          "XPos": 0,
+          "YPos": -16,
+          "ZPos": -168,
+          "XScale": 1.15,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41109",
+          "ModelIdNum": 41109,
+          "ObjectType": 4,
+          "XPos": -6,
+          "YPos": -18,
+          "ZPos": -138,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41105",
+          "ModelIdNum": 41105,
+          "ObjectType": 4,
+          "XPos": 0,
+          "YPos": -16,
+          "ZPos": -108,
+          "XScale": 1.15,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 4,
+          "XPos": -70,
+          "YPos": -31,
+          "ZPos": -240,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 4,
+          "XPos": 50,
+          "YPos": -31,
+          "ZPos": -240,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41200",
+          "ModelIdNum": 41200,
+          "ObjectType": 4,
+          "XPos": 170,
+          "YPos": -31,
+          "ZPos": -240,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 4,
+          "XPos": 236,
+          "YPos": -31,
+          "ZPos": 68,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41200",
+          "ModelIdNum": 41200,
+          "ObjectType": 4,
+          "XPos": 236,
+          "YPos": -31,
+          "ZPos": -52,
+          "XRotation": 0,
+          "YRotation": -1536,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "45084",
+          "ModelIdNum": 45084,
+          "ObjectType": 4,
+          "XPos": 96,
+          "YPos": -24,
+          "ZPos": 118,
+          "XScale": 0.9299998,
+          "YScale": 0.9299999,
+          "ZScale": 1.201746,
+          "XRotation": 0,
+          "YRotation": -511,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "163",
+          "ModelIdNum": 163,
+          "ObjectType": 4,
+          "XPos": 0,
+          "YPos": 0,
+          "ZPos": 0,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41105",
+          "ModelIdNum": 41105,
+          "ObjectType": 4,
+          "XPos": 0,
+          "YPos": -16,
+          "ZPos": -168,
+          "XScale": 1.15,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41109",
+          "ModelIdNum": 41109,
+          "ObjectType": 4,
+          "XPos": -6,
+          "YPos": -18,
+          "ZPos": -138,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41105",
+          "ModelIdNum": 41105,
+          "ObjectType": 4,
+          "XPos": 0,
+          "YPos": -16,
+          "ZPos": -108,
+          "XScale": 1.15,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 4,
+          "XPos": -70,
+          "YPos": -31,
+          "ZPos": -240,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 4,
+          "XPos": 50,
+          "YPos": -31,
+          "ZPos": -240,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41200",
+          "ModelIdNum": 41200,
+          "ObjectType": 4,
+          "XPos": 170,
+          "YPos": -31,
+          "ZPos": -240,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 4,
+          "XPos": 236,
+          "YPos": -31,
+          "ZPos": 68,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41200",
+          "ModelIdNum": 41200,
+          "ObjectType": 4,
+          "XPos": 236,
+          "YPos": -31,
+          "ZPos": -52,
+          "XRotation": 0,
+          "YRotation": -1536,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "45084",
+          "ModelIdNum": 45084,
+          "ObjectType": 4,
+          "XPos": 34,
+          "YPos": -24,
+          "ZPos": 118,
+          "XScale": 0.9299998,
+          "YScale": 0.93,
+          "ZScale": 0.9299998,
+          "XRotation": 0,
+          "YRotation": -511,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "45086",
+          "ModelIdNum": 45086,
+          "ObjectType": 4,
+          "XPos": 96,
+          "YPos": -44,
+          "ZPos": 122,
+          "XScale": 1.3788,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "45086",
+          "ModelIdNum": 45086,
+          "ObjectType": 4,
+          "XPos": 32,
+          "YPos": -44,
+          "ZPos": 122,
+          "XScale": 1.3788,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "45087",
+          "ModelIdNum": 45087,
+          "ObjectType": 4,
+          "XPos": -194,
+          "YPos": -204,
+          "ZPos": 190,
+          "XScale": 2.0,
+          "YScale": 2.0,
+          "ZScale": 2.0,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        }
+      ],
+      "BlockFlatObjectRecords": [],
+      "BlockSection3Records": [],
+      "BlockPeopleRecords": [],
+      "BlockDoorRecords": []
+    },
+    "Interior": {
+      "Header": {
+        "Num3dObjectRecords": 17,
+        "NumFlatObjectRecords": 7,
+        "NumSection3Records": 6,
+        "NumPeopleRecords": 1,
+        "NumDoorRecords": 2
+      },
+      "Block3dObjectRecords": [
+        {
+          "ModelId": "31004",
+          "ModelIdNum": 31004,
+          "ObjectType": 13,
+          "XPos": -189,
+          "YPos": -63,
+          "ZPos": 189,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "31005",
+          "ModelIdNum": 31005,
+          "ObjectType": 13,
+          "XPos": -64,
+          "YPos": -63,
+          "ZPos": 192,
+          "XRotation": 0,
+          "YRotation": -1536,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41034",
+          "ModelIdNum": 41034,
+          "ObjectType": 3,
+          "XPos": -216,
+          "YPos": 1,
+          "ZPos": -236,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41032",
+          "ModelIdNum": 41032,
+          "ObjectType": 0,
+          "XPos": -176,
+          "YPos": -36,
+          "ZPos": -236,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41108",
+          "ModelIdNum": 41108,
+          "ObjectType": 3,
+          "XPos": -160,
+          "YPos": 0,
+          "ZPos": -160,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41113",
+          "ModelIdNum": 41113,
+          "ObjectType": 3,
+          "XPos": -168,
+          "YPos": 2,
+          "ZPos": -200,
+          "XRotation": 0,
+          "YRotation": -961,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41113",
+          "ModelIdNum": 41113,
+          "ObjectType": 3,
+          "XPos": -196,
+          "YPos": 1,
+          "ZPos": -178,
+          "XRotation": 0,
+          "YRotation": -961,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41113",
+          "ModelIdNum": 41113,
+          "ObjectType": 3,
+          "XPos": -158,
+          "YPos": 1,
+          "ZPos": -110,
+          "XRotation": 0,
+          "YRotation": -961,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41106",
+          "ModelIdNum": 41106,
+          "ObjectType": 3,
+          "XPos": -120,
+          "YPos": 1,
+          "ZPos": 236,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3019",
+          "ModelIdNum": 3019,
+          "ObjectType": 13,
+          "XPos": -135,
+          "YPos": -64,
+          "ZPos": -125,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3018",
+          "ModelIdNum": 3018,
+          "ObjectType": 13,
+          "XPos": -249,
+          "YPos": -64,
+          "ZPos": 66,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3019",
+          "ModelIdNum": 3019,
+          "ObjectType": 13,
+          "XPos": 128,
+          "YPos": -63,
+          "ZPos": 135,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "1002",
+          "ModelIdNum": 1002,
+          "ObjectType": 13,
+          "XPos": -189,
+          "YPos": 0,
+          "ZPos": -64,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3005",
+          "ModelIdNum": 3005,
+          "ObjectType": 13,
+          "XPos": -249,
+          "YPos": -64,
+          "ZPos": -125,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3000",
+          "ModelIdNum": 3000,
+          "ObjectType": 13,
+          "XPos": -192,
+          "YPos": -64,
+          "ZPos": 0,
+          "XRotation": 0,
+          "YRotation": -1536,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3000",
+          "ModelIdNum": 3000,
+          "ObjectType": 13,
+          "XPos": -192,
+          "YPos": -64,
+          "ZPos": 126,
+          "XRotation": 0,
+          "YRotation": -1536,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3004",
+          "ModelIdNum": 3004,
+          "ObjectType": 13,
+          "XPos": -192,
+          "YPos": -64,
+          "ZPos": -244,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "2002",
+          "ModelIdNum": 2002,
+          "ObjectType": 13,
+          "XPos": -190,
+          "YPos": -127,
+          "ZPos": -59,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3000",
+          "ModelIdNum": 3000,
+          "ObjectType": 13,
+          "XPos": -192,
+          "YPos": -64,
+          "ZPos": 6,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "1006",
+          "ModelIdNum": 1006,
+          "ObjectType": 13,
+          "XPos": 128,
+          "YPos": 0,
+          "ZPos": 186,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3000",
+          "ModelIdNum": 3000,
+          "ObjectType": 13,
+          "XPos": 3,
+          "YPos": -64,
+          "ZPos": 192,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3005",
+          "ModelIdNum": 3005,
+          "ObjectType": 13,
+          "XPos": 129,
+          "YPos": -63,
+          "ZPos": 248,
+          "XRotation": 0,
+          "YRotation": -1536,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3004",
+          "ModelIdNum": 3004,
+          "ObjectType": 13,
+          "XPos": 244,
+          "YPos": -63,
+          "ZPos": 191,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "2006",
+          "ModelIdNum": 2006,
+          "ObjectType": 13,
+          "XPos": 126,
+          "YPos": -125,
+          "ZPos": 193,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "3002",
+          "ModelIdNum": 3002,
+          "ObjectType": 13,
+          "XPos": -137,
+          "YPos": -64,
+          "ZPos": 65,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "42069",
+          "ModelIdNum": 42069,
+          "ObjectType": 0,
+          "XPos": 198,
+          "YPos": -11,
+          "ZPos": 204,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41007",
+          "ModelIdNum": 41007,
+          "ObjectType": 3,
+          "XPos": 142,
+          "YPos": 0,
+          "ZPos": 222,
+          "ZScale": 1.5,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "69448",
+          "ModelIdNum": 69448,
+          "ObjectType": 0,
+          "XPos": -248,
+          "YPos": -70,
+          "ZPos": -92,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "42076",
+          "ModelIdNum": 42076,
+          "ObjectType": 0,
+          "XPos": 100,
+          "YPos": -7,
+          "ZPos": 212,
+          "XScale": 0.8,
+          "YScale": 0.8,
+          "ZScale": 0.8,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "163",
+          "ModelIdNum": 163,
+          "ObjectType": 0,
+          "XPos": 2,
+          "YPos": 0,
+          "ZPos": -6,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "69467",
+          "ModelIdNum": 69467,
+          "ObjectType": 0,
+          "XPos": -68,
+          "YPos": -90,
+          "ZPos": 136,
+          "XScale": 0.5,
+          "YScale": 0.5,
+          "ZScale": 0.5,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 0,
+          "XPos": -74,
+          "YPos": -31,
+          "ZPos": -242,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 0,
+          "XPos": 46,
+          "YPos": -31,
+          "ZPos": -242,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41201",
+          "ModelIdNum": 41201,
+          "ObjectType": 0,
+          "XPos": 234,
+          "YPos": -31,
+          "ZPos": 68,
+          "XRotation": 0,
+          "YRotation": -512,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41200",
+          "ModelIdNum": 41200,
+          "ObjectType": 0,
+          "XPos": 164,
+          "YPos": -31,
+          "ZPos": -242,
+          "XRotation": 0,
+          "YRotation": -1024,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41200",
+          "ModelIdNum": 41200,
+          "ObjectType": 0,
+          "XPos": 234,
+          "YPos": -31,
+          "ZPos": -52,
+          "XRotation": 0,
+          "YRotation": -1536,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41109",
+          "ModelIdNum": 41109,
+          "ObjectType": 3,
+          "XPos": -4,
+          "YPos": -2,
+          "ZPos": -150,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41105",
+          "ModelIdNum": 41105,
+          "ObjectType": 0,
+          "XPos": 0,
+          "YPos": -16,
+          "ZPos": -178,
+          "XScale": 1.15,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        },
+        {
+          "ModelId": "41105",
+          "ModelIdNum": 41105,
+          "ObjectType": 0,
+          "XPos": 0,
+          "YPos": -16,
+          "ZPos": -124,
+          "XScale": 1.15,
+          "XRotation": 0,
+          "YRotation": 0,
+          "ZRotation": 0
+        }
+      ],
+      "BlockFlatObjectRecords": [
+        {
+          "Position": 0,
+          "XPos": 43,
+          "YPos": 0,
+          "ZPos": 224,
+          "TextureArchive": 199,
+          "TextureRecord": 20,
+          "FactionID": 0,
+          "Flags": 17
+        },
+        {
+          "Position": 0,
+          "XPos": -216,
+          "YPos": 0,
+          "ZPos": -43,
+          "TextureArchive": 199,
+          "TextureRecord": 20,
+          "FactionID": 0,
+          "Flags": 17
+        },
+        {
+          "Position": 0,
+          "XPos": 126,
+          "YPos": -80,
+          "ZPos": 192,
+          "TextureArchive": 210,
+          "TextureRecord": 22,
+          "FactionID": 28688,
+          "Flags": 17
+        },
+        {
+          "Position": 0,
+          "XPos": -190,
+          "YPos": -82,
+          "ZPos": -120,
+          "TextureArchive": 210,
+          "TextureRecord": 22,
+          "FactionID": 28688,
+          "Flags": 17
+        },
+        {
+          "Position": 0,
+          "XPos": -128,
+          "YPos": -82,
+          "ZPos": 192,
+          "TextureArchive": 210,
+          "TextureRecord": 22,
+          "FactionID": 20496,
+          "Flags": 17
+        },
+        {
+          "Position": 0,
+          "XPos": -192,
+          "YPos": 0,
+          "ZPos": 64,
+          "TextureArchive": 199,
+          "TextureRecord": 8,
+          "FactionID": 0,
+          "Flags": 0
+        },
+        {
+          "Position": 0,
+          "XPos": -230,
+          "YPos": 0,
+          "ZPos": 217,
+          "TextureArchive": 205,
+          "TextureRecord": 0,
+          "FactionID": 0,
+          "Flags": 0
+        },
+        {
+          "Position": 0,
+          "XPos": -216,
+          "YPos": 0,
+          "ZPos": 232,
+          "TextureArchive": 205,
+          "TextureRecord": 0,
+          "FactionID": 0,
+          "Flags": 0
+        },
+        {
+          "Position": 0,
+          "XPos": 142,
+          "YPos": -26,
+          "ZPos": 222,
+          "TextureArchive": 56790,
+          "TextureRecord": 23,
+          "FactionID": 0,
+          "Flags": 0
+        },
+        {
+          "Position": 0,
+          "XPos": 52,
+          "YPos": -1,
+          "ZPos": 160,
+          "TextureArchive": 199,
+          "TextureRecord": 11,
+          "FactionID": 0,
+          "Flags": 0
+        },
+        {
+          "Position": 0,
+          "XPos": -196,
+          "YPos": -1,
+          "ZPos": -88,
+          "TextureArchive": 199,
+          "TextureRecord": 18,
+          "FactionID": 0,
+          "Flags": 0
+        },
+        {
+          "Position": 0,
+          "XPos": 210,
+          "YPos": -1,
+          "ZPos": 200,
+          "TextureArchive": 199,
+          "TextureRecord": 4,
+          "FactionID": 0,
+          "Flags": 0
+        }
+      ],
+      "BlockSection3Records": [
+        {
+          "XPos": -192,
+          "YPos": 0,
+          "ZPos": 192
+        },
+        {
+          "XPos": -64,
+          "YPos": 0,
+          "ZPos": 192
+        },
+        {
+          "XPos": 64,
+          "YPos": 0,
+          "ZPos": 192
+        },
+        {
+          "XPos": 192,
+          "YPos": 0,
+          "ZPos": 192
+        },
+        {
+          "XPos": -192,
+          "YPos": 0,
+          "ZPos": -64
+        },
+        {
+          "XPos": -192,
+          "YPos": 0,
+          "ZPos": -192
+        }
+      ],
+      "BlockPeopleRecords": [
+        {
+          "Position": 3334,
+          "XPos": -114,
+          "YPos": 1,
+          "ZPos": 166,
+          "TextureArchive": 182,
+          "TextureRecord": 20,
+          "FactionID": 388,
+          "Flags": 1
+        },
+        {
+          "Position": 3335,
+          "XPos": 140,
+          "YPos": -1,
+          "ZPos": 166,
+          "TextureArchive": 182,
+          "TextureRecord": 26,
+          "FactionID": 0,
+          "Flags": 0
+        },
+        {
+          "Position": 3336,
+          "XPos": -220,
+          "YPos": -1,
+          "ZPos": -154,
+          "TextureArchive": 182,
+          "TextureRecord": 4,
+          "FactionID": 0,
+          "Flags": 0
+        }
+      ],
+      "BlockDoorRecords": [
+        {
+          "Position": 0,
+          "XPos": -169,
+          "YPos": -45,
+          "ZPos": -1,
+          "YRotation": -1024,
+          "OpenRotation": 90,
+          "DoorModelIndex": 0
+        },
+        {
+          "Position": 1,
+          "XPos": -4,
+          "YPos": -45,
+          "ZPos": 169,
+          "YRotation": -1536,
+          "OpenRotation": 90,
+          "DoorModelIndex": 0
+        }
+      ]
+    }
+  },
+  "AutoMapData": null
+}
